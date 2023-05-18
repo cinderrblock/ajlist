@@ -14,9 +14,6 @@ export function score(rank, percent, minPercent) {
     if (rank > 50) {
         return 0;
     }
-    if (rank >= 50) {
-        return 0;
-    }
 
     // Old formula
     /*
