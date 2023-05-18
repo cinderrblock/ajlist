@@ -5,13 +5,19 @@
     "creators": [],
     "verifier": "pewdiepiereal1",
     "verification": "https://youtu.be/kdSykNZ1ABI",
-    "percentToQualify": 55,
+    "percentToQualify": 71,
     "records": [
         {
             "user": "evil",
             "link": "https://youtu.be/CmPKOoAIrW4",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://youtu.be/KVeILRxeMFM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
