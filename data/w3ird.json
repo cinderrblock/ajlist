@@ -1,0 +1,54 @@
+{
+    "id": 146,
+    "name": "W3IRd",
+    "author": "wigby",
+    "creators": [],
+    "verifier": "wigby",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Shadow",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "cinderrblock",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/vtExkW8O5eM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "yeckgrinding",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DeepStrider2",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Kion",
+            "link": "https://cdn.discordapp.com/attachments/1028430443126726776/1081594435399327846/F4FB684A-9C49-49D9-8330-D7FB6443E75D.jpg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "brapstu",
+            "link": "https://cdn.discordapp.com/attachments/946049906899046401/1089746206466523236/image.png",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/ilHKRRc6TzE?t=122",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

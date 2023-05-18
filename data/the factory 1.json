@@ -1,0 +1,34 @@
+{
+    "id": 109,
+    "name": "the factory 1",
+    "author": "brapstu",
+    "creators": [],
+    "verifier": "evil",
+    "verification": "https://youtu.be/nsakTIspnrE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "yeckgrinding",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "brapstu",
+            "link": "https://youtu.be/jfXLXQZuGyM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/X7MiIpxNaZE?t=76",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://i.imgur.com/YxHBrab.png",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

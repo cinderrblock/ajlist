@@ -1,0 +1,61 @@
+{
+    "id": 143,
+    "name": "cubo",
+    "author": "F1regek",
+    "creators": [],
+    "verifier": "F1regek",
+    "verification": "https://youtu.be/oo5YrawtTtI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Shadow",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/QiiDiV9_JX0",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "cinderrblock",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "yeckgrinding",
+            "link": "https://youtu.be/Cg5gQSaBEik",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wigby",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DeepStrider2",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Kion",
+            "link": "https://cdn.discordapp.com/attachments/1028430443126726776/1081656308282949722/F9DE89EC-0045-4C4B-BCFD-2BB84A08BCBE.jpg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/ilHKRRc6TzE?t=496",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://i.imgur.com/kZCK4Cn.png",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

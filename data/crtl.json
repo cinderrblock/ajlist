@@ -1,0 +1,40 @@
+{
+    "id": 147,
+    "name": "crtl",
+    "author": "F1regek",
+    "creators": [],
+    "verifier": "evil",
+    "verification": "https://youtu.be/mQtt2VO3FYQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "cinderrblock",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DeepStrider2",
+            "link": "https://cdn.discordapp.com/attachments/946049906899046401/1080299286710997094/image.png",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/ilHKRRc6TzE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Li Mao",
+            "link": "https://youtu.be/XupTWUCHJy8?t=69",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://i.imgur.com/XPbfpJU.png",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

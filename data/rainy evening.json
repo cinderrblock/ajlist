@@ -1,0 +1,29 @@
+{
+    "id": 132,
+    "name": "rainy evening",
+    "author": "cinderrblock",
+    "creators": [],
+    "verifier": "cinderrblock",
+    "verification": "https://youtu.be/2-p7YDyJipk",
+    "percentToQualify": 63,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/iALPX34qGR0",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/SucS4FCj8xw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://youtu.be/yRTZki5ocNI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
