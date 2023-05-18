@@ -109,8 +109,14 @@ export default {
                     <h3>Submission Requirements</h3>
                     <p>
                         Easy Demons and Medium Demons: SCREENSHOT REQUIRED.
+                    </p>
+                    <p>
                         Hard Demons+: VIDEO REQUIRED.
+                    </p>
+                    <p>
                         Extreme Demons: VIDEO & CLICKS REQUIRED.
+                    </p>
+                    <p>
                         Top 3: VIDEO & CLICKS & RAW FOOTAGE REQUIRED.
                     </p>
                     <p>
