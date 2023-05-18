@@ -1,0 +1,67 @@
+{
+    "id": 121,
+    "name": "deep down below us",
+    "author": "cinderrblock",
+    "creators": [
+        "F1regek"
+    ],
+    "verifier": "cinderrblock",
+    "verification": "https://youtu.be/OkG9KQbGpKw",
+    "percentToQualify": 55,
+    "records": [
+        {
+            "user": "Shadow",
+            "link": "https://youtu.be/Av7AZw8s2HU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "yeckgrinding",
+            "link": "https://youtu.be/CDOpanTWwnA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "pewdiepiereal1",
+            "link": "https://youtu.be/HBdQ_WWdiPQ?t=189",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/X5u8GGd_IRE",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Latios",
+            "link": "https://youtu.be/iC5tab6XMF0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "uwu",
+            "link": "https://youtu.be/bpE3L8tS8wI",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "voicechatping",
+            "link": "https://youtu.be/40_MUEymg_E",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/Fu-0mw1ivYA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://youtu.be/1fgCN7Tjg-A",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

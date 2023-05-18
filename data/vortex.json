@@ -1,0 +1,45 @@
+{
+    "id": 118,
+    "name": "VOrteX",
+    "author": "F1regek",
+    "creators": [],
+    "verifier": "evil",
+    "verification": "https://youtu.be/nW-03CL70io",
+    "percentToQualify": 58,
+    "records": [
+        {
+            "user": "yeckgrinding",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Shadow",
+            "link": "https://cdn.discordapp.com/attachments/909315223817691187/1063598556813983857/vortex.mp4",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "cinderrblock",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/mB-bCntqjiE?t=953",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "pewdiepiereal1",
+            "link": "https://youtu.be/F6_XFaRjidw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://youtu.be/9Io_rNc7sH0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

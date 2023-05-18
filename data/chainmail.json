@@ -1,0 +1,47 @@
+{
+    "id": 105,
+    "name": "Chainmail",
+    "author": "Shadow",
+    "creators": [],
+    "verifier": "Shadow",
+    "verification": "https://youtu.be/GT9laKBPzIk",
+    "percentToQualify": 58,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/lph4cYbusMM",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "yeckgrinding",
+            "link": "https://youtu.be/i2_TR-j_nq8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "pewdiepiereal1",
+            "link": "https://youtu.be/HBdQ_WWdiPQ?t=113",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/mB-bCntqjiE?t=880",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "riven og",
+            "link": "https://youtu.be/3yxWHYrvnbs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://youtu.be/GWoWgVSQ7As",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

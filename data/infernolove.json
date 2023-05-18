@@ -1,0 +1,41 @@
+{
+    "id": 145,
+    "name": "INFERNOLOVE",
+    "author": "F1regek",
+    "creators": [],
+    "verifier": "evil",
+    "verification": "https://youtu.be/FPY61SlyaII",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "pewdiepiereal1",
+            "link": "https://youtu.be/evizHQBiHmQ",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Kion",
+            "link": "https://cdn.discordapp.com/attachments/1028430443126726776/1081594418030710896/B7F856FE-94E8-406A-91CB-5EFC33EBA0EF.jpg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/ilHKRRc6TzE?t=69",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Li Mao",
+            "link": "https://youtu.be/XupTWUCHJy8?t=142",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://i.imgur.com/e155EWu.png",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

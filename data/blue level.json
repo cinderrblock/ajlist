@@ -1,0 +1,29 @@
+{
+    "id": 228,
+    "name": "blue level",
+    "author": "XBladeXGMD",
+    "creators": [],
+    "verifier": "XBladeXGMD",
+    "verification": "",
+    "percentToQualify": 64,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/yiqpJl66Y3k",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/mB-bCntqjiE?t=145",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://youtu.be/TzpAyamLoWc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

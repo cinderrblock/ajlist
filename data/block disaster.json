@@ -1,0 +1,27 @@
+{
+    "id": 110,
+    "name": "block disaster",
+    "author": "evil",
+    "creators": [
+    "F1regek"
+    ],
+    "verifier": "evil",
+    "verification": "https://youtu.be/68mxjNqRUqw",
+    "percentToQualify": 36,
+    "records": [
+        {    
+            "user": "pewdiepiereal1",
+            "link": "https://youtu.be/uz7NRXlVc2c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rin",
+            "link": "https://youtu.be/XiwKEHQhH-U",
+            "percent": 100,
+            "hz": 360
+        }
+            
+    
+    ]
+}

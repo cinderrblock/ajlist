@@ -1,0 +1,48 @@
+{
+    "id": 142,
+    "name": "Dash",
+    "author": "F1regek",
+    "creators": [
+        "F1regek",
+        "XDtheMeme"
+    ],
+    "verifier": "evil",
+    "verification": "https://youtu.be/hvK24RoV6bQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Shadow",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "yeckgrinding",
+            "link": "https://youtu.be/4egfxGYUUm0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "pewdiepiereal1",
+            "link": "https://youtu.be/HBdQ_WWdiPQ",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "DeepStrider2",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/ilHKRRc6TzE?t=283",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://imgur.com/hEEZSvR",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

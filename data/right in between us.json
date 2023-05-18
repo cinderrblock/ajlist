@@ -1,0 +1,19 @@
+{
+    "id": 192,
+    "name": "Right In Between Us",
+    "author": "cinderrblock",
+    "creators": [
+        "F1regek"
+    ],
+    "verifier": "cinderrblock",
+    "verification": "https://youtu.be/SOkPsxSgl1o",
+    "percentToQualify": 62,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/5PQRO9DXKRo",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}

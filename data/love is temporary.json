@@ -1,0 +1,25 @@
+{
+    "id": 124,
+    "name": "Love Is Temporary",
+    "author": "evil",
+    "creators": [
+        "F1regek"
+    ],
+    "verifier": "evil",
+    "verification": "hhttps://youtu.be/ntSZdp4icPs",
+    "percentToQualify": 58,
+    "records": [
+        {
+            "user": "Shadow",
+            "link": "https://youtu.be/2h7xzhIOXpU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/mB-bCntqjiE?t=734",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 138,
+    "name": "BREAKTHROUGH",
+    "author": "molexular",
+    "creators": [],
+    "verifier": "molexular",
+    "verification": "https://youtu.be/o23_fpUS_cI",
+    "percentToQualify": 63,
+    "records": [
+        {
+            "user": "Shadow",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "cinderrblock",
+            "link": "https://youtu.be/Y9L87T9YaXw",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/uE9UApMoA9E",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "yeckgrinding",
+            "link": "https://youtu.be/HOzGlywueVI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/mB-bCntqjiE?t=318",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

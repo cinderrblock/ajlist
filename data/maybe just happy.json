@@ -1,0 +1,40 @@
+{
+    "id": 141,
+    "name": "maybe just happy",
+    "author": "cinderrblock",
+    "creators": [],
+    "verifier": "cinderrblock",
+    "verification": "https://youtu.be/x-KRNwjmw3k",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Shadow",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/iwx_wApacvA",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "pewdiepiereal1",
+            "link": "https://cdn.discordapp.com/attachments/923026827281317922/1011412403344388186/IMG_5506.png",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/X7MiIpxNaZE?t=396",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://i.imgur.com/j6NjMlg.png",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
