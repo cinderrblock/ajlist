@@ -108,6 +108,12 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        Easy Demons and Medium Demons: SCREENSHOT REQUIRED.
+                        Hard Demons+: VIDEO REQUIRED.
+                        Extreme Demons: VIDEO & CLICKS REQUIRED.
+                        Top 3: VIDEO & CLICKS & RAW FOOTAGE REQUIRED.
+                    </p>
+                    <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
@@ -124,6 +130,9 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    </p>
+                    <p>
+                        Level completion must be on the GDPS, unless there is a valid reason as to why not.
                     </p>
                 </div>
             </div>
