@@ -1,0 +1,23 @@
+{
+    "id": 270,
+    "name": "MORE GLITTER",
+    "author": "molexular",
+    "creators": [],
+    "verifier": "molexular",
+    "verification": "",
+    "percentToQualify": 83,
+    "records": [
+        {
+            "user": "pewdiepiereal1",
+            "link": "https://youtu.be/L78KL1L9OeM",
+            "percent": 100,
+            "hz": 165
+        },
+      {
+            "user": "evil",
+            "link": "https://youtu.be/rg-JvIe5MRc",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
