@@ -3,10 +3,16 @@
     "name": "VOrteX",
     "author": "F1regek",
     "creators": [],
-    "verifier": "evil",
-    "verification": "https://youtu.be/nW-03CL70io",
+    "verifier": "F1regek",
+    "verification": "https://youtu.be/96-e7hcnY64",
     "percentToQualify": 58,
     "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/nW-03CL70io",
+            "percent": 100,
+            "hz": 165
+        },
         {
             "user": "yeckgrinding",
             "percent": 100,
