@@ -3,10 +3,16 @@
     "name": "INFERNOLOVE",
     "author": "F1regek",
     "creators": [],
-    "verifier": "evil",
-    "verification": "https://youtu.be/FPY61SlyaII",
+    "verifier": "F1regek",
+    "verification": "https://youtu.be/USF5_BkljSI",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/FPY61SlyaII",
+            "percent": 100,
+            "hz": 165
+        },
         {
             "user": "pewdiepiereal1",
             "link": "https://youtu.be/evizHQBiHmQ",
