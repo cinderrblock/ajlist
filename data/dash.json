@@ -6,10 +6,16 @@
         "F1regek",
         "XDtheMeme"
     ],
-    "verifier": "evil",
-    "verification": "https://youtu.be/hvK24RoV6bQ",
+    "verifier": "XDtheMeme",
+    "verification": "https://youtu.be/59pZfZ0do2Y",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/hvK24RoV6bQ"
+            "percent": 100,
+            "hz": 165
+        },
         {
             "user": "Shadow",
             "percent": 100,
