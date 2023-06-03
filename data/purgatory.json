@@ -42,9 +42,16 @@
         },
         {
             "user": "BigRatorBUB",
-            "link": "hhttps://www.youtube.com/watch?v=vovoxBqxz0A",
+            "link": "https://www.youtube.com/watch?v=vovoxBqxz0A",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "smet",
+            "link": "https://youtu.be/G5pBHOkgho4",
+            "percent": 100,
+            "hz": 60
+            "mobile": true
         }
     ]
 }
