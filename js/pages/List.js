@@ -1,17 +1,17 @@
-import { store } from "../main.js";
-import { embed } from "../util.js";
-import { score } from "../score.js";
-import { fetchEditors, fetchList } from "../content.js";
+import { store } from '../main.js';
+import { embed } from '../util.js';
+import { score } from '../score.js';
+import { fetchEditors, fetchList } from '../content.js';
 
-import Spinner from "../components/Spinner.js";
-import LevelAuthors from "../components/List/LevelAuthors.js";
+import Spinner from '../components/Spinner.js';
+import LevelAuthors from '../components/List/LevelAuthors.js';
 
 const roleIconMap = {
-    owner: "crown",
-    admin: "user-gear",
-    helper: "user-shield",
-    dev: "code",
-    trial: "user-lock",
+    owner: 'crown',
+    admin: 'user-gear',
+    helper: 'user-shield',
+    dev: 'code',
+    trial: 'user-lock',
 };
 
 export default {
@@ -25,7 +25,7 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
-                            <p v-if="i + 1 <= 50" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
@@ -34,21 +34,13 @@ export default {
                             </button>
                         </td>
                     </tr>
-                </table>
+                </div>
             </div>
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
-                    <div v-if="level.showcase" class="tabs">
-                        <button class="tab type-label-lg" :class="{selected: !toggledShowcase}" @click="toggledShowcase = false">
-                            <span class="type-label-lg">Verification</span>
-                        </button>
-                        <button class="tab" :class="{selected: toggledShowcase}" @click="toggledShowcase = true">
-                            <span class="type-label-lg">Showcase</span>
-                        </button>
-                    </div>
-                    <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
+                    <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
@@ -64,8 +56,7 @@ export default {
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 38"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else-if="selected +1 <= 50"><strong>100%</strong> or better to qualify</p>
+                    <p v-if="selected + 1 <= 150"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
@@ -108,19 +99,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Easy Demons and Medium Demons: SCREENSHOT REQUIRED.
-                    </p>
-                    <p>
-                        Hard Demons+: VIDEO REQUIRED.
-                    </p>
-                    <p>
-                        Extreme Demons: VIDEO & CLICKS REQUIRED.
-                    </p>
-                    <p>
-                        Top 3: VIDEO & CLICKS & RAW FOOTAGE REQUIRED.
-                    </p>
-                    <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                    </p>
+                    <p>
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
@@ -135,10 +117,12 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Level completion must be on the GDPS, unless there is a valid reason as to why not.
+                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    </p>
+                     <p>
                     </p>
                 </div>
             </div>
@@ -152,22 +136,10 @@ export default {
         errors: [],
         roleIconMap,
         store,
-        toggledShowcase: false,
     }),
     computed: {
         level() {
             return this.list[this.selected][0];
-        },
-        video() {
-            if (!this.level.showcase) {
-                return embed(this.level.verification);
-            }
-
-            return embed(
-                this.toggledShowcase
-                    ? this.level.showcase
-                    : this.level.verification
-            );
         },
     },
     async mounted() {
@@ -178,7 +150,7 @@ export default {
         // Error handling
         if (!this.list) {
             this.errors = [
-                "Failed to load list. Retry in a few minutes or notify list staff.",
+                'Failed to load list. Retry in a few minutes or notify list staff.',
             ];
         } else {
             this.errors.push(
@@ -186,10 +158,10 @@ export default {
                     .filter(([_, err]) => err)
                     .map(([_, err]) => {
                         return `Failed to load level. (${err}.json)`;
-                    })
+                    }),
             );
             if (!this.editors) {
-                this.errors.push("Failed to load list editors.");
+                this.errors.push('Failed to load list editors.');
             }
         }
 
