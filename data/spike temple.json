@@ -1,0 +1,19 @@
+{
+    "id": 130,
+    "name": "spike temple",
+    "author": "brapstu",
+    "creators": [
+    "brapstu"
+    ],
+    "verifier": "Rin",
+    "verification": "https://youtu.be/VSTqbKQ1vY4",
+    "percentToQualify": 57,
+    "records": [
+        {    
+            "user": "evil",
+            "link": "https://youtu.be/Oqgp855J_FY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
