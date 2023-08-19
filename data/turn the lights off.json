@@ -52,7 +52,8 @@
             "user": "Kakimu",
             "link": "https://cdn.discordapp.com/attachments/946049906899046401/1118509071323107458/volumeup_720p_2.mp4",
             "percent": 100,
-            "hz": 40
+            "hz": 40,
+            "mobile": true
         }
     ]
 }

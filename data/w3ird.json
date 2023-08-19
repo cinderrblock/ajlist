@@ -4,6 +4,7 @@
     "author": "wigby",
     "creators": [],
     "verifier": "wigby",
+    "verification": "https://youtu.be/gXgp02I_WxQ",
     "percentToQualify": 100,
     "records": [
         {
@@ -55,6 +56,20 @@
             "link": "https://cdn.discordapp.com/attachments/946049906899046401/1116768270893203666/image.png",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "MonotonFXB",
+            "link": "https://cdn.discordapp.com/attachments/946049906899046401/1142532075275169832/2023-08-19_20-46-35.mp4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Blubbro",
+            "link": "https://cdn.discordapp.com/attachments/946049906899046401/1142545138753753108/XRecorder_19082023_142934.mp4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
+        
     ]
 }
