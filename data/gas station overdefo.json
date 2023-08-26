@@ -1,0 +1,17 @@
+{
+    "id": 288,
+    "name": "GAS STATION OVERDEFO",
+    "author": "molexular",
+    "creators": ["molexular", "hexi"],
+    "verifier": "molexular",
+    "verification": "https://youtu.be/OMMJcThbrH8",
+    "percentToQualify": 68,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/O4wggc9qeNI?si=cKONVun4dUmVAExr",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
