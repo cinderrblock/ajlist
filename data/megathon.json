@@ -6,5 +6,12 @@
     "verifier": "cinderrblock",
     "verification": "https://youtu.be/cxFt3rM9OwI?si=78gSXPQ5SSjMwpKg",
     "percentToQualify": 43,
-    "records": []
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/TyqOrxmTXBU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
