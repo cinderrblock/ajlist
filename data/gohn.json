@@ -6,5 +6,12 @@
     "verifier": "GDSmek",
     "verification": "https://youtu.be/MYzGq0ni0AA?si=YJKE-Skh_sqR6zkj",
     "percentToQualify": 57,
-    "records": []
+    "records": [
+        {
+            "user": "Rin",
+            "link": "https://youtu.be/LghH2qAjg8o?si=p2t6nMmqmTlnFsml",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
