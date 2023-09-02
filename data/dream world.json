@@ -1,0 +1,23 @@
+{
+    "id": 378,
+    "name": "dream world",
+    "author": "brapstu",
+    "creators": [],
+    "verifier": "brapstu",
+    "verification": "https://youtu.be/Sn62j0QZZV8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rae",
+            "link": "a",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/spMwz8AyFzQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

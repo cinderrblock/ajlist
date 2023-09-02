@@ -69,6 +69,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Rae",
+            "link": "https://cdn.discordapp.com/attachments/946049906899046401/1147366677198163998/Base_Profile_Screenshot_2023.png",
+            "percent": 100,
+            "hz": 360
         }
         
     ]
