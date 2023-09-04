@@ -52,6 +52,12 @@
             "percent": 65,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "nswish",
+            "link": "https://www.youtube.com/watch?v=H9qrAHY8X-A&lc=UgyS97b3ROZLCJd6oL94AaABAg",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
