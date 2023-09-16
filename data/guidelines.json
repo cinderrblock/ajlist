@@ -6,5 +6,12 @@
     "verifier": "evil",
     "verification": "https://youtu.be/Ln3uzJxQFI8",
     "percentToQualify": 45,
-    "records": []
+    "records": [
+        {
+            "user": "BigRatorBUB",
+            "link": "https://youtu.be/alSW0s5MHoQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
