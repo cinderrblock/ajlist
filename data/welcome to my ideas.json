@@ -1,0 +1,17 @@
+{
+    "id": 387,
+    "name": "welcome to my ideas",
+    "author": "cinderrblock",
+    "creators": [],
+    "verifier": "cinderrblock",
+    "verification": "https://youtu.be/LMDG91w4GdM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/JVuvUVuk_t8?si=tEaIKScQKqj9H6Oe",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
