@@ -6,5 +6,12 @@
     "verifier": "Gig",
     "verification": "https://youtu.be/HcnQr4jB08E?si=thdNNY37BAX21t2Y",
     "percentToQualify": 58,
-    "records": []
+    "records": [
+        {
+            "user": "Rin",
+            "link": "https://youtu.be/3-7mX54OafI?si=9E6jg0FG9zWkJ10b",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
 }
