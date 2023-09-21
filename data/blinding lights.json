@@ -6,5 +6,12 @@
     "verifier": "Rae",
     "verification": "https://youtu.be/9SbjIRLvbkw?si=zaqim7mlTMIuFVmt",
     "percentToQualify": 56,
-    "records": []
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/WkVL9zuFK-M",
+            "percent": 77,
+            "hz": 240
+        }
+    ]
 }
