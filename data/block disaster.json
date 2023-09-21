@@ -20,8 +20,12 @@
             "link": "https://youtu.be/XiwKEHQhH-U",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "nswish",
+            "link": "https://www.youtube.com/watch?v=TCMPVYC4ywk",
+            "percent": 65,
+            "hz": 360
         }
-            
-    
     ]
 }
