@@ -1,0 +1,23 @@
+{
+    "id": 355,
+    "name": "Glazed Void",
+    "author": "Rae",
+    "creators": [],
+    "verifier": "Rae",
+    "verification": "https://youtu.be/Sl_d1B_tKa4?si=8BBWvEe--JvjO5iR",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/Sl_d1B_tKa4?si=8BBWvEe--JvjO5iR",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "LiMao",
+            "link": "https://www.youtube.com/watch?v=Kfa76ooSOOU",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
