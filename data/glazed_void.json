@@ -18,6 +18,12 @@
             "link": "https://www.youtube.com/watch?v=Kfa76ooSOOU",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "cinderrblock",
+            "link": "https://cdn.discordapp.com/attachments/946049906899046401/1161433558364205096/image.png?ex=6538484a&is=6525d34a&hm=30b2fa17dfeb635f53b05789fe915253c628cdca2f5bf40ecf4d44e91a1ce325&",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
