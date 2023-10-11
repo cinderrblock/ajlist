@@ -55,6 +55,12 @@
             "link": "https://cdn.discordapp.com/attachments/946049906899046401/1113908275969269820/image.png",
             "percent": 100,
             "hz": 360
+        },       
+        {
+            "user": "cinderrblock",
+            "link": "https://cdn.discordapp.com/attachments/946049906899046401/1161774205541560390/image.png?ex=6539858b&is=6527108b&hm=77aa9f774cda1ee83db832a0a44d29c7601d6099946e70e373d1e704c1806d8d&",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
