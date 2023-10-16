@@ -1,0 +1,17 @@
+{
+    "id": 451,
+    "name": "spawn",
+    "author": "uwu",
+    "creators": [],
+    "verifier": "uwu",
+    "verification": "https://www.youtube.com/watch?v=1_ZkgQjw-kQ&ab_channel=lilshrimpbucket",
+    "percentToQualify": 64,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/7WWCAYyWs64",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
