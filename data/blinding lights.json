@@ -8,9 +8,15 @@
     "percentToQualify": 56,
     "records": [
         {
+            "user": "Rin",
+            "link": "https://cdn.discordapp.com/attachments/946049906899046401/1163203530522382366/8mb.video-mjJ-GtnHi3db.mp4?ex=653eb8b4&is=652c43b4&hm=bb8d6a301c02ad80e4ab342aa3b9e92d90acd826f37b8dbb7b0e022f62c800e6&",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "evil",
-            "link": "https://youtu.be/WkVL9zuFK-M",
-            "percent": 77,
+            "link": "https://youtu.be/Kpitxp0pV_o?si=cZl30rwFRvgYxCo4",
+            "percent": 100,
             "hz": 240
         }
     ]
