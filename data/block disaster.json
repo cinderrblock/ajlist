@@ -5,27 +5,15 @@
     "creators": [
     "F1regek"
     ],
-    "verifier": "evil",
-    "verification": "https://youtu.be/68mxjNqRUqw",
+    "verifier": "cinderrblock",
+    "verification": "https://youtu.be/LlS-DEP9_RA",
     "percentToQualify": 36,
     "records": [
         {    
-            "user": "pewdiepiereal1",
-            "link": "https://youtu.be/uz7NRXlVc2c",
+            "user": "evil",
+            "link": "https://youtu.be/LlS-DEP9_RA",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "Rin",
-            "link": "https://youtu.be/XiwKEHQhH-U",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "nswish",
-            "link": "https://youtu.be/r8H1AATZ-N0?si=8UHyvdqAelhnWJDS",
-            "percent": 100,
-            "hz": 360
         }
     ]
 }
