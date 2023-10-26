@@ -24,6 +24,12 @@
             "link": "https://www.youtube.com/watch?v=hZ0VlT1vwB4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/c0qKs_JR3c4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
