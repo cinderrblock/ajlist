@@ -1,0 +1,17 @@
+{
+    "id": 495,
+    "name": "the ultimate pau",
+    "author": "brapstu",
+    "creators": [],
+    "verifier": "evil",
+    "verification": "https://youtu.be/2H0lNU7moW8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "cinderrblock",
+            "link": "https://cdn.discordapp.com/attachments/1047351923243749398/1169403755716943912/image.png",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
