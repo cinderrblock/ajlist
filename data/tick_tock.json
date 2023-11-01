@@ -1,0 +1,17 @@
+{
+    "id": 490,
+    "name": "Tick Tock",
+    "author": "XBladeXGMD",
+    "creators": [],
+    "verifier": "evil",
+    "verification": "https://youtu.be/XIkUgE7EPHE?si=bWBJfwAd-UG5EPyh",
+    "percentToQualify": 55,
+    "records": [
+        {
+            "user": "cinderrblock",
+            "link": "https://youtu.be/mAjTcp0EYtg?si=JuGWJBuOeXP6qOH3",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
