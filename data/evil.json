@@ -1,0 +1,23 @@
+{
+    "id": 510,
+    "name": "Evil",
+    "author": "Rae",
+    "creators": [],
+    "verifier": "evil",
+    "verification": "https://youtu.be/L-BPTGSFgK0?si=j04ojVdubSl_08FL",
+    "percentToQualify": 49,
+    "records": [
+        {
+            "user": "coubitic",
+            "link": "https://medal.tv/games/requested/clips/1Cdns49N76Ma8j/d1337VpW8cpe?invite=cr-MSxackcsMTg1OTA3NzIs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "HamsterPlayz",
+            "link": "https://youtu.be/M3s7BB761-k?si=UdSL94Dy0swv7BsX",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
