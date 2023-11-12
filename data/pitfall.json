@@ -12,6 +12,11 @@
     "verification": "https://www.youtube.com/watch?v=DJdPZznV_pA",
     "percentToQualify": 64,
     "records": [
-
+    {
+            "user": "evil",
+            "link": "https://youtu.be/oLZin1ZjQ9Y",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
