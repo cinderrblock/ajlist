@@ -30,6 +30,12 @@
             "link": "https://www.youtube.com/watch?v=SVckYVyL07k&t=2s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "jjj",
+            "link": "https://youtu.be/xeQcgfIBvXI",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
