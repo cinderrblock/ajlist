@@ -1,0 +1,17 @@
+{
+    "id": 521,
+    "name": "INCANDESCENT",
+    "author": "Rae",
+    "creators": [],
+    "verifier": "cinderrblock",
+    "verification": "https://youtu.be/nGzevRQdgsc",
+    "percentToQualify": 73,
+    "records": [
+        {
+            "user": "Rin",
+            "link": "https://youtu.be/YOwLRaQSzAw?si=bFGoX1LTjMSaNTz7",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
