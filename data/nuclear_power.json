@@ -1,0 +1,23 @@
+{
+    "id": 522,
+    "name": "Nuclear Power",
+    "author": "Xplode",
+    "creators": ["Xplode", "sarcasticmuch", "blatnblox", "wickerwick"],
+    "verifier": "Xplode",
+    "verification": "https://www.youtube.com/watch?v=-XJNsZ3u2JU",
+    "percentToQualify": 65,
+    "records": [
+        {
+            "user": "BigRatorBUB",
+            "link": "x",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/jPntQUQx0Ow",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
