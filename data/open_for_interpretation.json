@@ -1,0 +1,17 @@
+{
+    "id": 530,
+    "name": "open for interpretation",
+    "author": "F1regek",
+    "creators": [],
+    "verifier": "F1regek",
+    "verification": "https://youtu.be/U5cHUok9p5E",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/4jAocy7Y1Qc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

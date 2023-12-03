@@ -1,0 +1,17 @@
+{
+    "id": 532,
+    "name": "Troll level",
+    "author": "wigby",
+    "creators": [],
+    "verifier": "wigby",
+    "verification": "https://youtu.be/L1z6q2DFxn4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/Kh8gX2hYMwg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

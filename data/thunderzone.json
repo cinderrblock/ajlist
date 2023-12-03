@@ -1,0 +1,17 @@
+{
+    "id": 534,
+    "name": "ThunderZone",
+    "author": "whitmp4",
+    "creators": [],
+    "verifier": "whitmp4",
+    "verification": "https://youtu.be/B2pOjNwIyZA?si=loHU6-_MJ7oZIuoR",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/YHyeMpAmga4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
