@@ -1,0 +1,29 @@
+{
+    "id": 547,
+    "name": "CoRrIdOr",
+    "author": "Rae",
+    "creators": [],
+    "verifier": "Rae",
+    "verification": "https://youtu.be/T8RIgVwf294",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "wigby",
+            "link": "x",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "x",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/0e7uaZdWufU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

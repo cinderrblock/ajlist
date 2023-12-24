@@ -1,15 +1,15 @@
 {
-    "id": 495,
-    "name": "the ultimate pau",
-    "author": "brapstu",
+    "id": 539,
+    "name": "Tranquilluminance",
+    "author": "whitmp4",
     "creators": [],
-    "verifier": "evil",
-    "verification": "https://youtu.be/2H0lNU7moW8",
+    "verifier": "whitmp4",
+    "verification": "https://youtu.be/jT3S27_laRg?si=UZIpx9eAEwooKPEg",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "cinderrblock",
-            "link": "https://cdn.discordapp.com/attachments/1047351923243749398/1169403755716943912/image.png",
+            "user": "evil",
+            "link": "https://youtu.be/hCIvwBMVUVk?si=tCmrQ30TFqoIhSh7",
             "percent": 100,
             "hz": 240
         },

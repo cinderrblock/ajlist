@@ -1,0 +1,23 @@
+{
+    "id": 535,
+    "name": "Paint The Town Red",
+    "author": "Rae",
+    "creators": [],
+    "verifier": "Rae",
+    "verification": "https://youtu.be/E8DJpV8uAY4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/1HncWLNgcfA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BigRatorBUB",
+            "link": "https://youtu.be/JyQ8D52svYU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
