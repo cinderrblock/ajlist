@@ -1,0 +1,17 @@
+{
+    "id": 554,
+    "name": "MERRY CHRISTMAS",
+    "author": "BigRatorBUB",
+    "creators": ["BigRatorBUB", "XBladeXGMD"],
+    "verifier": "BigRatorBUB",
+    "verification": "https://youtu.be/XDdXWcHXgKc",
+    "percentToQualify": 68,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/YsNaJ_p6zoM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

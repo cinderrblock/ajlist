@@ -1,0 +1,23 @@
+{
+    "id": 549,
+    "name": "Possession",
+    "author": "petergriffinreal",
+    "creators": [],
+    "verifier": "petergriffinreal",
+    "verification": "https://youtu.be/FEGs19sewTA",
+    "percentToQualify": 78,
+    "records": [
+        {
+            "user": "Rin",
+            "link": "https://youtu.be/QSOk6i2WbWs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/2cNK6LjGAtU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
