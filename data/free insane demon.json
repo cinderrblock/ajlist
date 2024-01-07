@@ -53,6 +53,12 @@
             "link": "https://www.youtube.com/watch?v=pGeIoeIZoUM",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "hayden",
+            "link": "https://youtu.be/Ch82NTb-rKQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
