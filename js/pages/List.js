@@ -100,17 +100,23 @@ export default {
                     <h3>Submission Requirements</h3>
                     <p>
                         Submission general Format:
-
+                    </p>
+                    <p>
                         Levels that are top 1 at the time of completion require a raw footage link with all audio sources audible, whether that be mediafire, google drive, youtube, etc. is up to you.
-
+                    </p>
+                    <p>
                         Levels that are rated hard demon or harder on the gdps at the time of completion require video proof w/ audible clicks at the very least.
-
+                    </p>
+                    <p>
                         Levels that are rated easy demon or harder on the gdps at the time of completion require video proof.
-
+                    </p>
+                    <p>
                         If you beat a level on the gdps that is on the main servers on the main servers, the record will not be accepted unless a reasonable reason is provided (such as beating a level for both the BGDPS list and the Layout List).
-
+                    </p>
+                    <p>
                         If you cannot record clicks, a substitution such as handcam, raw footage, a click/tap indicator is also allowed.
-
+                    </p>
+                    <p>
                         Records for all levels need to have videos, and top 10 records must have clicks.
                     </p>
                     <p>
