@@ -40,6 +40,11 @@
         "link": "https://www.youtube.com/channel/UCs_0WzQ7Nzt_1TsxbQcWbnQ"
     },
     {
+        "role": "helper",
+        "name": "whitmp4",
+        "link": "https://www.youtube.com/@whitmp4"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
