@@ -1,11 +1,9 @@
 {
     "id": 123,
     "name": "Pure Ruby",
-    "author": "Reupload",
-    "creators": [
-        "bggfieldbob"
-    ],
-    "verifier": "bggfieldbob",
+    "author": "petergriffinreal",
+    "creators": [],
+    "verifier": "petergriffinreal",
     "verification": "https://youtu.be/67th-h287Cs",
     "percentToQualify": 55,
     "records": [
