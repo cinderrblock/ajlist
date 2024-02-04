@@ -1,0 +1,18 @@
+{
+    "id": 587,
+    "name": "DangerZone",
+    "author": "DJJDK",
+    "creators": [],
+    "verifier": "Blathers",
+    "verification": "https://youtu.be/q49_rW4VST0?si=Vg5aYZIramik1lN4",
+    "percentToQualify": 100,
+    "records": [
+        {    
+            "user": "evil",
+            "link": "https://youtu.be/zKAbHzLAQMg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
+
