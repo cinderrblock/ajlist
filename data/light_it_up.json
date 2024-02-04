@@ -1,0 +1,18 @@
+{
+    "id": 596,
+    "name": "Light It Up",
+    "author": "DJJDK",
+    "creators": ["ARwooly", "Skralen", "Kyoze", "Kiwi", "zGod", "xInf3rn0", "Gianv", "St1ng", "Yuko", "Hattoruu", "Kylerocket06", "Tragikly", "Tsunami"],
+    "verifier": "DJJDK",
+    "verification": "https://youtu.be/8fmvqSeezeQ?si=Hkdsy5c1GG8xlI7J",
+    "percentToQualify": 47,
+    "records": [
+        {    
+            "user": "hayden",
+            "link": "https://www.youtube.com/watch?v=1PDs1J7GvM4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
