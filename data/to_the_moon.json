@@ -1,0 +1,18 @@
+{
+    "id": 593,
+    "name": "to the moon",
+    "author": "DJJDK",
+    "creators": ["RewrtTT", "BySelling", "YEHbudy360", "Rensss", "Quadr"],
+    "verifier": "DJJDK",
+    "verification": "https://youtu.be/3KvvrNZ2uYw?si=bgYXb8CS0dBLFjA-",
+    "percentToQualify": 100,
+    "records": [
+        {    
+            "user": "hayden",
+            "link": "https://www.youtube.com/watch?v=ZQ2CUVimJVk&feature=youtu.be",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
