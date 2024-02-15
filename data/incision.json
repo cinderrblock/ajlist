@@ -1,0 +1,23 @@
+{
+    "id": 600,
+    "name": "Incision",
+    "author": "DJJDK",
+    "creators": [],
+    "verifier": "hayden",
+    "verification": "https://youtu.be/oSS-lEKPdls?si=1a5TEzLnrZMuqenb",
+    "percentToQualify": 52,
+    "records": [
+        {    
+            "user": "syrcx",
+            "link": "https://youtu.be/Pplg4bfbH_0?si=dn_f_OhWdfyfR-0V",
+            "percent": 100,
+            "hz": 240
+        },
+        {    
+            "user": "evil",
+            "link": "https://youtu.be/s-PGet-UEFY?si=7jKnbKG3538YkP6s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
