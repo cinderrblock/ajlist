@@ -6,6 +6,13 @@
     "verifier": "evil",
     "verification": "https://youtu.be/M0dzSp0uAoM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Hayden",
+            "link": "https://youtu.be/bI2ibE2T5Zk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
 
