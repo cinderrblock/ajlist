@@ -12,6 +12,13 @@
             "link": "https://youtu.be/bI2ibE2T5Zk",
             "percent": 100,
             "hz": 360
+        },
+         {
+            "user": "whitmp4",
+            "link": "https://youtu.be/2FlTD0MESeU?si=wacrwFgPoi0OQV7A",
+            "percent": 100,
+            "hz": 360,
+            "mobile": false
         }
     ]
 }
