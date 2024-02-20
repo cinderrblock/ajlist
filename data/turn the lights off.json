@@ -48,6 +48,12 @@
             "percent": 100,
             "hz": 40,
             "mobile": true
+        },
+        {
+            "user": "hayden",
+            "link": "https://youtu.be/-94PV1l4c3o",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
