@@ -3,10 +3,16 @@
     "name": "INCANDESCENT",
     "author": "Rae",
     "creators": [],
-    "verifier": "cinderrblock",
-    "verification": "https://youtu.be/nGzevRQdgsc",
+    "verifier": "Rae",
+    "verification": "https://youtu.be/Kev-ITexzrM",
     "percentToQualify": 73,
     "records": [
+        {
+            "user": "cinderrblock",
+            "link": "https://youtu.be/nGzevRQdgsc",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Rin",
             "link": "https://youtu.be/YOwLRaQSzAw?si=bFGoX1LTjMSaNTz7",
