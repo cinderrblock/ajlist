@@ -1,0 +1,23 @@
+{
+    "id": 188,
+    "name": "TOMBSTUFF",
+    "author": "F1regek",
+    "creators": [],
+    "verifier": "Rae",
+    "verification": "https://youtu.be/NOPItFck_BA?si=El41ALmH340IQbot",
+    "percentToQualify": 43,
+    "records": [
+        {
+            "user": "ZorpikGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/eEJCrO3ukcw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

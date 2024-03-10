@@ -46,12 +46,6 @@
             "hz": 240
         },
         {
-            "user": "BigRatorBUB",
-            "link": "https://i.imgur.com/ENIAEnr.png",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "F1regek",
             "link": "https://cdn.discordapp.com/attachments/946049906899046401/1116768270893203666/image.png",
             "percent": 100,
@@ -99,6 +93,12 @@
             "link": "https://youtu.be/83ePMnYmWEE?si=HkUg_-0IOpBohalK",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Carti",
+            "link": "https://youtu.be/hDlSCh6B02E?si=-JV9v3by1AdGPkNO",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
