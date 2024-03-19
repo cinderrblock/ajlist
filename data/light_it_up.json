@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=1PDs1J7GvM4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Li Mao",
+            "link": "https://www.youtube.com/watch?v=o2iz9aGVMbk&t=0s",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
