@@ -1,0 +1,17 @@
+{
+    "id": 615,
+    "name": "s0 g00d",
+    "author": "whitmp4",
+    "creators": [],
+    "verifier": "whitmp4",
+    "verification": "https://youtu.be/fkBqdxywbcc?si=8MmldZOOjKPnDyMV",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/gRbHaQT3Onk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
