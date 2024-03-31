@@ -8,12 +8,6 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Rae",
-            "link": "a",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "evil",
             "link": "https://youtu.be/spMwz8AyFzQ",
             "percent": 100,

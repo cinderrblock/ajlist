@@ -3,16 +3,10 @@
     "name": "Paint The Town Red",
     "author": "Rae",
     "creators": [],
-    "verifier": "Rae",
-    "verification": "https://youtu.be/E8DJpV8uAY4",
+    "verifier": "evil",
+    "verification": "https://youtu.be/1HncWLNgcfA",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "evil",
-            "link": "https://youtu.be/1HncWLNgcfA",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "ZorpikGMD",
             "link": "https://youtu.be/JyQ8D52svYU",
