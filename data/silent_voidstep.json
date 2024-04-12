@@ -3,10 +3,16 @@
     "name": "Silent Voidstep",
     "author": "Rae",
     "creators": [],
-    "verifier": "evil",
-    "verification": "https://youtu.be/wiiYbIPX7ho",
+    "verifier": "Rae",
+    "verification": "https://youtu.be/LwYZMLIWXAc?si=mgnHF6lcCD9EL9vc",
     "percentToQualify": 61,
     "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/wiiYbIPX7ho",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Rin",
             "link": "https://youtu.be/6ZuzNBg97ro",
