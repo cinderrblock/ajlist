@@ -60,6 +60,12 @@
             "link": "https://youtu.be/gVrwZkH8wTk",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Rae",
+            "link": "https://cdn.discordapp.com/attachments/1020543273942655068/1228154309481467986/image.png?ex=662b02d5&is=66188dd5&hm=0a39d5dc8b0bab96dd4e97fd9caed936ae25fe775f1c7d26912a29b0276942d3&",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
