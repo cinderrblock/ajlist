@@ -29,6 +29,12 @@
             "link": "https://www.youtube.com/watch?v=b51B4auWb6M",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Rae",
+            "link": "https://cdn.discordapp.com/attachments/1020543273942655068/1228154337117732974/image.png?ex=662b02db&is=66188ddb&hm=d9027cb432ce58179e51dcfbc3b3fe5f6b37a67f2797535a4768f724b3fc918f&",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
