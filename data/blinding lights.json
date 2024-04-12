@@ -3,10 +3,16 @@
     "name": "Blinding Lights",
     "author": "Rae",
     "creators": [],
-    "verifier": "Gig",
-    "verification": "https://youtu.be/t4pFBxIXQ_E",
+    "verifier": "Rae",
+    "verification": "https://youtu.be/9SbjIRLvbkw?si=CkQfFj-HvNv9AiDX",
     "percentToQualify": 56,
     "records": [
+        {
+            "user": "Gig",
+            "link": "https://youtu.be/t4pFBxIXQ_E",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Rin",
             "link": "https://cdn.discordapp.com/attachments/946049906899046401/1163203530522382366/8mb.video-mjJ-GtnHi3db.mp4?ex=653eb8b4&is=652c43b4&hm=bb8d6a301c02ad80e4ab342aa3b9e92d90acd826f37b8dbb7b0e022f62c800e6&",
