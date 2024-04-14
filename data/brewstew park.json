@@ -3,10 +3,16 @@
     "name": "BREWSTEW PARK",
     "author": "brapstu",
     "creators": [],
-    "verifier": "evil",
-    "verification": "https://youtu.be/3msF4demCPQ",
+    "verifier": "Rae",
+    "verification": "https://www.youtube.com/watch?v=kmrp7QqUwXo",
     "percentToQualify": 71,
     "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/3msF4demCPQ",
+            "percent": 100,
+            "hz": 144
+        },
         {
             "user": "brapstu",
             "link": "https://cdn.discordapp.com/attachments/946049906899046401/1116449291200892988/Bladegdps_2023.06.07_-_18.24.19.05.DVR.mp4",
@@ -36,12 +42,6 @@
             "link": "https://youtu.be/vfU_yMmaYDY",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Rae",
-            "link": "https://www.youtube.com/watch?v=kmrp7QqUwXo",
-            "percent": 100,
-            "hz": 288
         }
     ]
 }
