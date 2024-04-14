@@ -3,10 +3,16 @@
     "name": "Glazed Void",
     "author": "Rae",
     "creators": [],
-    "verifier": "evil",
+    "verifier": "Rae",
     "verification": "https://youtu.be/Sl_d1B_tKa4?si=8BBWvEe--JvjO5iR",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/Sl_d1B_tKa4?si=8BBWvEe--JvjO5iR",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Li Mao",
             "link": "https://www.youtube.com/watch?v=Kfa76ooSOOU",
