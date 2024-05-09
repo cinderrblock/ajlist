@@ -1,1 +1,1 @@
-# Welcome to the Blade GDPS Demonlist!
+# Welcome to the Algebra Jump Demonlist!
