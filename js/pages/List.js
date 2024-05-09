@@ -103,9 +103,6 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Record Submission Guidelines:
-                    </p>
-                    <p>
                         don't do stupid shit and you're probably fine
                     </p>
                 </div>
