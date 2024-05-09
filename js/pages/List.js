@@ -103,51 +103,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Submission general Format:
+                        Record Submission Guidelines:
                     </p>
                     <p>
-                        Levels that are top 1 at the time of completion require a raw footage link with all audio sources audible, whether that be mediafire, google drive, youtube, etc. is up to you.
-                    </p>
-                    <p>
-                        Levels that are rated hard demon or harder on the gdps at the time of completion require video proof w/ audible clicks at the very least.
-                    </p>
-                    <p>
-                        Levels that are rated easy demon or harder on the gdps at the time of completion require video proof.
-                    </p>
-                    <p>
-                        If you beat a level on the gdps that is on the main servers on the main servers, the record will not be accepted unless a reasonable reason is provided (such as beating a level for both the BGDPS list and the Layout List).
-                    </p>
-                    <p>
-                        If you cannot record clicks, a substitution such as handcam, raw footage, a click/tap indicator is also allowed.
-                    </p>
-                    <p>
-                        Records for all levels need to have videos, and top 10 records must have clicks.
-                    </p>
-                    <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
-                    </p>
-                    <p>
-                        Achieved the record on the GDPS. If you own Megahack V6/7 an fps counter is required and cheat indicator on the endscreen is also
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies, however startpos copy completions from 0 are allowed if the startpos copy is allowed, if you are unsure feel free to ask if a copy is allowed.
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
-                    <p>
-                        The next time I see someone fail to capitalize 'block disaster' correctly someone will die within the next 24 hours
-                    </p>
-                     <p>
+                        don't do stupid shit and you're probably fine
                     </p>
                 </div>
             </div>
