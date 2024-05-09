@@ -1,0 +1,28 @@
+{
+    "id": 0,
+    "name": "name",
+    "author": "author",
+    "creators": ["creator 1",
+                "creator 2"
+
+                ],
+    "verifier": "verifier",
+    "verification": "put vid link here",
+    "percentToQualify": 0,
+    "tier": 35,
+    "skillset": "skillset",
+    "records": [
+        {
+            "user": "user 1",
+            "link": "link 1",
+            "percent": 0,
+            "hz": 0
+        },
+        {
+            "user": "user 2",
+            "link": "link 2",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
