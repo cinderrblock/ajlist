@@ -1,57 +1,12 @@
 [
     {
         "role": "owner",
-        "name": "EvilEmperium",
-        "link": "https://www.youtube.com/@EvilEmperium"
-    },
-    {
-        "role": "owner",
-        "name": "YeckGrinding",
-        "link": "https://www.youtube.com/channel/UCtjjVATQCQYCcW_9hI3qmng"
-    },
-    {
-        "role": "helper",
-        "name": "ShadowAxeKid",
-        "link": "https://www.youtube.com/@ShadowAxeKid"
-    },
-    {
-        "role": "helper",
-        "name": "XBladeXGMD",
-        "link": "https://www.youtube.com/channel/UCxx5Oiz05nRnf4hYhGSgg_A"
+        "name": "tyhhkyfv",
+        "link": ""
     },
     {
         "role": "helper",
         "name": "cinder block",
         "link": "https://www.youtube.com/channel/UC5wBYQU7R-uZq2nj_Jb52ww"
-    },
-    {
-        "role": "helper",
-        "name": "DeepStrider2",
-        "link": "https://www.youtube.com/@deepstrider2"
-    },
-    {
-        "role": "helper",
-        "name": "Llqne",
-        "link": "https://www.youtube.com/@the_sewn_cat1891"
-    },
-     {
-        "role": "helper",
-        "name": "whitmp4",
-        "link": "https://www.youtube.com/@whitmp4"
-    },
-    {
-        "role": "helper",
-        "name": "hayden",
-        "link": "https://www.youtube.com/channel/UCs_0WzQ7Nzt_1TsxbQcWbnQ"
-    },
-    {
-        "role": "dev",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "dev",
-        "name": "Emonadeo",
-        "link": "https://github.com/Emonadeo"
     }
 ]
