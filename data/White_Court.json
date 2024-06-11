@@ -9,7 +9,12 @@
     "tier": 15,
     "skillset": "ship",
     "records": [
-
+      {
+          "user": "Maybe_A_Coconut",
+          "link": "https://www.youtube.com/watch?v=NfpttL-Htig&t=21s",
+          "percent": 100,
+          "hz": 60
+      }
 
     ]
 }
