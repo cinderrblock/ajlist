@@ -9,7 +9,12 @@
   "tier": 7,
   "skillset": "Timings",
   "records": [
-
+      {
+          "user": "Maybe_A_Coconut",
+          "link": "https://www.youtube.com/watch?v=ahE4JYiGJ_o",
+          "percent": 100,
+          "hz": 60
+      }
 
   ]
 }
