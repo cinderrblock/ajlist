@@ -1,0 +1,21 @@
+{
+  "id": 487,
+  "name": "Boundless",
+  "author": "sfctotalofficial",
+  "creators": [],
+  "verifier": "sfctotalofficial",
+  "verification": "put vid link here",
+  "percentToQualify": 60,
+  "tier": 8,
+  "skillset": "timings",
+  "records": [
+      {
+          "user": "Maybe_A_Coconut",
+          "link": "https://www.youtube.com/watch?v=2u56731Uf1o",
+          "percent": 100,
+          "hz": 60
+      }
+
+
+  ]
+}
