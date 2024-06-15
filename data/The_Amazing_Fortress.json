@@ -4,7 +4,7 @@
   "author": "VikKing",
   "creators": [],
   "verifier": "VikKing",
-  "verification": "put vid link here",
+  "verification": "https://www.youtube.com/watch?v=JpjiG-51KKw",
   "percentToQualify": 60,
   "tier": 6,
   "skillset": "Multi paths",
@@ -14,7 +14,13 @@
           "link": "stfu",
           "percent": 100,
           "hz": 30
-      }
+      },
+        {
+            "user": "Maybe_A_Coconut",
+            "link": "https://www.youtube.com/watch?v=JpjiG-51KKw",
+            "percent": 100,
+            "hz": 60
+        }
 
 
   ]
