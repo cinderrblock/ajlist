@@ -14,8 +14,13 @@
           "link": "stfu",
           "percent": 100,
           "hz": 30
+      },
+      {
+          "user": "Maybe_A_Coconut",
+          "link": "https://youtube.com/watch?v=v8rJCDbq0G8&si=6GzUIow-7ijBMxqo",
+          "percent": 100,
+          "hz": 30
       }
-
 
   ]
 }
