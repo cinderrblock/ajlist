@@ -9,7 +9,11 @@
     "tier": 5,
     "skillset": "memory",
     "records": [
-
-
+{
+          "user": "Maybe_A_Coconut",
+          "link": "https://youtube.com/watch?v=1aWLUkGfnns&si=ZU_bAa6HwyAoRdKR",
+          "percent": 100,
+          "hz": 60
+      }
     ]
 }
