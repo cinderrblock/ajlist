@@ -9,7 +9,8 @@
   "tier": 16,
   "skillset": "Memory",
   "records": [
-      { "user": "tyhhkyfv",
+      {
+          "user": "tyhhkyfv",
           "link": "stfu",
           "percent": 100,
           "hz": 30
