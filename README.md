@@ -1,1 +1,1 @@
-# Welcome to the Algebra Jump Demonlist!
+# Welcome to the Algebra GDPS Demonlist!
