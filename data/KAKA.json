@@ -14,6 +14,12 @@
           "link": "https://www.youtube.com/watch?v=fxJJytwqyDw",
           "percent": 56,
           "hz": 90
+      },
+      {
+          "user": "delenox",
+          "link": "https://www.youtube.com/watch?v=PeiFKCTFeDA",
+          "percent": 65,
+          "hz": 60
       }
   ]
 }
