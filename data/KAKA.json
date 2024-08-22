@@ -20,6 +20,12 @@
           "link": "https://www.youtube.com/watch?v=PeiFKCTFeDA",
           "percent": 65,
           "hz": 60
+      },
+      {
+          "user": "DavidRodriguez",
+          "link": "https://www.youtube.com/watch?v=GZiBXJxKgeo",
+          "percent": 100,
+          "hz": 60
       }
   ]
 }
