@@ -1,7 +1,7 @@
 {
     "id": 1112,    
     "name": "kakureta",
-    "author": "author",
+    "author": "aurora",
     "creators": [],
     "verifier": "aurora",
     "verification": "put vid link here",
@@ -9,17 +9,5 @@
     "tier": 21,
     "skillset": "ship",
     "records": [
-        {
-            "user": "user 1",
-            "link": "link 1",
-            "percent": 0,
-            "hz": 0
-        },
-        {
-            "user": "user 2",
-            "link": "link 2",
-            "percent": 0,
-            "hz": 0
-        }
     ]
 }
