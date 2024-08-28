@@ -1,0 +1,25 @@
+{
+    "id": 1112,    
+    "name": "kakureta.json",
+    "author": "author",
+    "creators": []'
+    "verifier": "aurora",
+    "verification": "put vid link here",
+    "percentToQualify": 56,
+    "tier": 21,
+    "skillset": "ship",
+    "records": [
+        {
+            "user": "user 1",
+            "link": "link 1",
+            "percent": 0,
+            "hz": 0
+        },
+        {
+            "user": "user 2",
+            "link": "link 2",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
