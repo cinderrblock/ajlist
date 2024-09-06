@@ -9,7 +9,11 @@
   "tier": 2,
   "skillset": "Cube",
   "records": [
-
-      
+      {
+          "user": "Aurora",
+          "link": "https://www.youtube.com/watch?v=cVfOH__rjlM",
+          "percent": 100,
+          "hz": 75
+      }   
   ]
 }
