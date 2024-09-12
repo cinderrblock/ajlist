@@ -1,0 +1,19 @@
+{
+    "id": 1093,    
+    "name": "darkgelican",
+    "author": "levijajr",
+    "creators": [],
+    "verifier": "levijajr",
+    "verification": "TBA",
+    "percentToQualify": 60,
+    "tier": 1,
+    "skillset": "Ship",
+    "records": [
+            {
+          "user": "Aurora",
+          "link": "https://www.youtube.com/watch?v=XoC_2hbwZeQ",
+          "percent": 100,
+          "hz": 75
+      }  
+    ]
+}
