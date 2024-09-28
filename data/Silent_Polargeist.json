@@ -9,7 +9,11 @@
   "tier": 5,
   "skillset": "Memory",
   "records": [
-
-
+      {
+          "user": "HollouJT",
+          "link": "https://drive.google.com/file/d/1pbnmNoWRgw1NCmTJH3jatsm5YyLwC68P/view",
+          "percent": 100,
+          "hz": 120
+      }
   ]
 }
