@@ -4,11 +4,17 @@
   "author": "Latios",
   "creators": [],
   "verifier": "Latios",
-  "verification": "put vid link here",
+  "verification": "https://youtu.be/53ffQtxQQgM",
   "percentToQualify": 65,
   "tier": 3,
   "skillset": "Boring and Forgettable",
   "records": [
+      {
+          "user": "tyhhkyfv",
+          "link": "https://youtu.be/53ffQtxQQgM",
+          "percent": 100,
+          "hz": 60
+      }
 
 
   ]
