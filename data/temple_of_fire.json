@@ -20,8 +20,13 @@
           "link": "none",
           "percent": 100,
           "hz": 60
-      }
-
+      },
+      {
+          "user": "sfctotalofficial",
+          "link": "none",
+          "percent": 100,
+          "hz": 60
+      },
 
   ]
 }
