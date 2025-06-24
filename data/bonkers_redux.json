@@ -9,6 +9,12 @@
     "tier": 32,
     "skillset": "Timings, Straight fly",
     "records": [
+        {
+            "user": "Zayrot",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
 
     ]
 }
