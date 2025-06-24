@@ -20,6 +20,12 @@
           "link": "stfu",
           "percent": 100,
           "hz": 60
+      },
+      {
+          "user": "Zayrot",
+          "link": "none",
+          "percent": 100,
+          "hz": 60
       }
 
 
