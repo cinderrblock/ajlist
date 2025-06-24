@@ -14,7 +14,13 @@
           "link": "https://www.youtube.com/watch?v=l0Y2FcOjuiQ",
           "percent": 100,
           "hz": 60
-      }
+      },
+        {
+            "user": "Zayrot",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
 
     ]
 }
