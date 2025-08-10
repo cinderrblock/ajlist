@@ -14,6 +14,12 @@
           "link": "none",
           "percent": 100,
           "hz": 60
+      },
+      {
+          "user": "brapstu",
+          "link": "none",
+          "percent": 73,
+          "hz": 170
       }
 
 
