@@ -9,5 +9,11 @@
   "tier": 18,
   "skillset": "Memory",
   "records": [
+      {
+          "user": "Darwin107",
+          "link": "none",
+          "percent": 100,
+          "hz": 60
+      }
   ]
 }
