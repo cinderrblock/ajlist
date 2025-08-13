@@ -10,5 +10,11 @@
     "tier": 4,
     "skillset": "Cube",
     "records": [
+        {
+            "user": "NoobNoobastico",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
