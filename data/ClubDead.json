@@ -8,7 +8,13 @@
   "percentToQualify": 55,
     "tier": 10,
     "skillset": "Overall",
-    "records": [
+    "records":[
+     {
+          "user": "Darwin107",
+          "link": "none",
+          "percent": 100,
+          "hz": 60
+     }
 
 
     ]
