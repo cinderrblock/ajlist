@@ -11,5 +11,11 @@
     "tier": 37,
     "skillset": "overall",
     "records": [
-    ]
+        {
+            "user": "NoobNoobastico",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
+        ]
 }
